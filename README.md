@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm mathzino <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer%20Science%20Student;Technology%20Enthusiast;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer%20Science%20Student;&center=true&width=500&height=50"></a>
 </p>
 
 ## Github Profile stats
 <br/>
   <p align="center">
-    <a href="https://github.com/mathzino"><img align="center" src="https://github-readme-stats.vercel.app/api?username=/mathzino&show_icons=true&locale=en&theme=algolia" alt="mathzino" height="192px"/></a>
+    <a href="https://github.com/mathzino"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mathzino&show_icons=true&locale=en&theme=algolia" alt="mathzino" height="192px"/></a>
 	</p>
 <br/>
 
